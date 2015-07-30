@@ -31,7 +31,7 @@ docker run -d -p 8983:8983 -t vasiliyfomichev/solr-for-sitecore:{tag}
 
 Then with a web browser go to _http://{host IP}:8983/solr_ to see the Admin Console (adjust the hostname for your docker host).
 
-If no tag is specified in the command above, the 150427_5.2.1 will be used, which will setup Solr with cores and schema based on Sitecore 8 rev. 150427 (Update 3).
+If no tag is specified in the command above, the sc80rev150427_5.2.1 will be used, which will setup Solr with cores and schema based on Sitecore 8 rev. 150427 (Update 3).
 
 Solr for Sitecore Tags
 -----------------------------
