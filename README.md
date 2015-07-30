@@ -53,9 +53,16 @@ Solr is licensed under the Apache License, Version 2.0, and this repository is t
 
 Copyright 2015 Vasiliy Fomichev
 
-Licensed under the Apache License, Version 2.0 (the ìLicenseî); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the ‚ÄúLicense‚Äù); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an ìAS ISî BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the Licens
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an ‚ÄúAS IS‚Äù BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the Licens
+
+Related Sitecore Projects
+--------------------------------
+
+- [Sitecore ADFS Authenticator Module](https://github.com/vasiliyfomichev/Sitecore-ADFS-Authenticator-Module) - Sitecore module for authenticating users using ADFS.
+- [Sitecore SignalR Tools](https://github.com/vasiliyfomichev/signalr-sitecore-tools) - commonly used Sitecore tools rebuilt using SignalR technology providing live updates and a modern interface.
+- [Sitecore Solr Term Highlighter](https://github.com/vasiliyfomichev/Sitecore-Solr-Search-Term-Highlight) - enables search term highlighting in Sitecore search results when used with Solr.
